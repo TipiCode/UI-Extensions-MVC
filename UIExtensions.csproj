@@ -1,0 +1,36 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <PackageId>Tipi.Tools.UIExtensions.Mvc</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>tipi(code)</Authors>
+    <Product>$(AssemblyName).Mvc</Product>
+    <Description>UI Helper Classes to interact with Razor View rendering.</Description>
+    <Copyright>tipicode all rights reserved.</Copyright>
+    <PackageProjectUrl>https://docs.codingtipi.com</PackageProjectUrl>
+    <PackageIcon>Assets\tipi.png</PackageIcon>
+    <RepositoryUrl>https://github.com/TipiCode/ui-extensions-mvc</RepositoryUrl>
+    <PackageTags>mvc;c#;.net core</PackageTags>
+    <NeutralLanguage>en</NeutralLanguage>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <FileVersion>1.0.0</FileVersion>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.ViewFeatures" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Assets\tipi.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
