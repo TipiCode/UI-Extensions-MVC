@@ -1,5 +1,5 @@
 <h1>
-  <img width="200" src="https://skyloft.sfo3.cdn.digitaloceanspaces.com/Repos/tipi.gif" alt="Tipi Logo">
+  <img src="https://skyloft.sfo3.cdn.digitaloceanspaces.com/nuget/toolkit-banner.png" alt="Tipi Logo">
 </h1>
 
 [![GitHub license](https://img.shields.io/github/license/TipiCode/ui-extensions-mvc.svg)](https://github.com/TipiCode/ui-extensions-mvc/blob/master/LICENSE)
