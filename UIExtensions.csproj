@@ -6,20 +6,24 @@
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageId>Tipi.Tools.UIExtensions.Mvc</PackageId>
-    <Version>1.0.0</Version>
+    <Version>1.0.1</Version>
     <Authors>tipi(code)</Authors>
-    <Product>$(AssemblyName).Mvc</Product>
-    <Description>UI Helper Classes to interact with Razor View rendering.</Description>
-    <Copyright>tipicode all rights reserved.</Copyright>
-    <PackageProjectUrl>https://docs.codingtipi.com</PackageProjectUrl>
+    <Product>UIExtensions.Mvc</Product>
+    <Description>UI Helper Classes to interact with Razor Views allowing to render Css classes or components based on provided logic.</Description>
+    <Copyright>© tipicode | all rights reserved.</Copyright>
+    <PackageProjectUrl>https://docs.codingtipi.com/docs/toolkit/mvc-extensions</PackageProjectUrl>
     <PackageIcon>Assets\tipi.png</PackageIcon>
     <RepositoryUrl>https://github.com/TipiCode/ui-extensions-mvc</RepositoryUrl>
-    <PackageTags>mvc;c#;.net core</PackageTags>
+    <PackageTags>Mcv;c#;.Net Core;UI;Razor</PackageTags>
     <NeutralLanguage>en</NeutralLanguage>
-    <AssemblyVersion>1.0.0</AssemblyVersion>
-    <FileVersion>1.0.0</FileVersion>
+    <AssemblyVersion>1.0.1</AssemblyVersion>
+    <FileVersion>1.0.1</FileVersion>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <PackageReleaseNotes>Added Comments and links to the official documentation.</PackageReleaseNotes>
+    <AssemblyName>Tipi.Tools.UIExtensions.Mvc</AssemblyName>
+    <RootNamespace>Tipi.Tools.UIExtensions.Mvc</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
