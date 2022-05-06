@@ -9,7 +9,7 @@
     <Version>1.0.1</Version>
     <Authors>tipi(code)</Authors>
     <Product>UIExtensions.Mvc</Product>
-    <Description>UI Helper Classes to interact with Razor Views allowing to render Css classes or components based on provided logic.</Description>
+    <Description>UI Helper Class that interacts with Razor Views allowing to render CSS classes or components based on a provided logic.</Description>
     <Copyright>© tipicode | all rights reserved.</Copyright>
     <PackageProjectUrl>https://docs.codingtipi.com/docs/toolkit/mvc-extensions</PackageProjectUrl>
     <PackageIcon>Assets\tipi.png</PackageIcon>
