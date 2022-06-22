@@ -19,6 +19,7 @@ Before starting please refer to the official documentation for this toolkit clas
 ### ⚒️ Other Tipi Tools
 - [HttpRequestHandler](https://github.com/TipiCode/http-request-handler)
 - [Recurrente](https://github.com/TipiCode/recurrente)
+- [Culqi](https://github.com/TipiCode/culqi)
 
 <h1></h1>
 
