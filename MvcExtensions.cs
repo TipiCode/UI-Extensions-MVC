@@ -12,11 +12,11 @@ namespace Tipi.Tools.UIExtensions.Mvc
     public static class MvcExtensions
     {
         /// <summary>
-        /// Adds a css class inside the Current Controller and Action, 
+        ///     Adds a css class inside the Current Controller and Action, 
         /// <see href="https://docs.codingtipi.com/docs/toolkit/mvc-extensions/methods#active-class">See More</see>.
         /// </summary>
         /// <remarks>
-        /// Evaluates based on provided parameters the current Controller and Action and renders a given Css class.
+        ///     Evaluates based on provided parameters the current Controller and Action and renders a given Css class.
         /// </remarks>
         /// <param name="htmlHelper">Helper to interact with Html.</param>
         /// <param name="controllers">Controllers you want to check separated by ','</param>
