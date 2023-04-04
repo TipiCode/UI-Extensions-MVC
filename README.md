@@ -1,16 +1,16 @@
 ![Main Banner](https://tipi-pod.sfo3.cdn.digitaloceanspaces.com/github%2Fui-extensions-mvc-banner.jpg)
 
-![Contributors](https://img.shields.io/github/contributors/TipiCode/HTTP-Request-Handler?color=%2349C8F1&label=Contribuidores&style=for-the-badge)
-![Errores](https://img.shields.io/github/issues/TipiCode/HTTP-Request-Handler?color=%23F99D25&style=for-the-badge)
-![Licencia](https://img.shields.io/github/license/TipiCode/HTTP-Request-Handler?color=%23A4CD39&label=Licencia&style=for-the-badge)
-![Version](https://img.shields.io/github/v/release/TipiCode/HTTP-Request-Handler?color=%2349C8F1&label=Ultima%20versi%C3%B3n&style=for-the-badge)
-![Descargas](https://img.shields.io/nuget/dt/Tipi.Tools.HttpRequestHandler?color=%23F99D25&label=Descargas&style=for-the-badge)
-![NUGET](https://img.shields.io/nuget/v/Tipi.Tools.HttpRequestHandler?color=%23A4CD39&style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/TipiCode/UI-Extensions-MVC?color=%2349C8F1&label=Contribuidores&style=for-the-badge)
+![Errores](https://img.shields.io/github/issues/TipiCode/UI-Extensions-MVC?color=%23F99D25&style=for-the-badge)
+![Licencia](https://img.shields.io/github/license/TipiCode/UI-Extensions-MVC?color=%23A4CD39&label=Licencia&style=for-the-badge)
+![Version](https://img.shields.io/github/v/release/TipiCode/UI-Extensions-MVC?color=%2349C8F1&label=Ultima%20versi%C3%B3n&style=for-the-badge)
+![Descargas](https://img.shields.io/nuget/dt/Tipi.Tools.UIExtensions.Mvc?color=%23F99D25&label=Descargas&style=for-the-badge)
+![NUGET](https://img.shields.io/nuget/v/Tipi.Tools.UIExtensions.Mvc?color=%23A4CD39&style=for-the-badge)
 
 
 
 # Acerca del proyecto
-Este proyecto se enfoca en abstraer y facilitar la interacción con la clase HTTPClient de .NET, la librería busca abstraer en un solo método similar al Fetch API de Javascript. Puedes leer la documentacion específica para esta librería en el siguiente ![link](https://docs.codingtipi.com/docs/toolkit/http-request-handler).
+Este proyecto se concentra en reunir una colección de clases y métodos que nos ayudan a implementar lógica dentro de las vistas y Razor Pages de nuestros proyectos de MVC en .NET. Podemos realizar desde acciones sencillas como llevar control de la vista activa para poder reflejarlo en el menú o colocar clases de CSS o modificar HTML en base al controlador y acción activos. Puedes leer la documentacion específica para esta librería en el siguiente ![link](https://docs.codingtipi.com/docs/toolkit/mvc-extensions).
 
 Esta librería es parte de una serie de librerías que facilitan el uso de clases de .NET , como proyecto buscamos crear y mantener librerías que sean útiles para facilitar desarrollo en .NET nuestro principal enfoque es facilitar y abstraer código difícil de entender, de esta manera buscamos abrir más posibilidades a muchos más desarrolladores de .NET, todas estas librerías serán soportadas por el momento en versiones LTS de .NET Core. Gracias por tomarte el tiempo de leer nuestro proyecto, te invitamos a que contribuyas y utilices esta librería y esperemos te ayude en tus proyectos.
 
@@ -19,12 +19,12 @@ Todas nuestras librerías se encuentran publicadas en Nuget para su fácil acces
 <table>
 <tr>
 <th align="center">
-<a href="https://github.com/TipiCode/HTTP-Request-Handler/issues">
+<a href="https://github.com/TipiCode/UI-Extensions-MVC/issues">
 <img src="https://tipi-pod.sfo3.cdn.digitaloceanspaces.com/github%2Fissue-report.jpg">
 </a>
 </th>
 <th align="center">
-<a href="https://github.com/TipiCode/HTTP-Request-Handler/pulls">
+<a href="https://github.com/TipiCode/UI-Extensions-MVC/pulls">
 <img src="https://tipi-pod.sfo3.cdn.digitaloceanspaces.com/github%2Ffeature-request.jpg">
 </a>
 </th>
@@ -54,34 +54,34 @@ Aca de dejamos algunos temas que te pueden interesar
 ### Instalación por medio de Github
 Para instalar el proyecto por medio de Github primero debes de clonar el repositorio, puedes clonarlo ![descargando el archivo .Zip](https://github.com/TipiCode/HTTP-Request-Handler/archive/refs/heads/master.zip) que genera Github o con el siguiente comando.
 ```sh
-   git clone https://github.com/TipiCode/HTTP-Request-Handler.git
+   git clone https://github.com/TipiCode/UI-Extensions-MVC.git
 ```
 
 ### Instalación por medio de Nuget
-Para instalar el proyecto por medio de Nuget puedes hacerlo buscando dentro de los Nuget Packages la librería con el nombre de ![Tipi.Tools.HttpRequestHandler](https://www.nuget.org/packages/Tipi.Tools.HttpRequestHandler) o ejecutando el siguiente comando:
+Para instalar el proyecto por medio de Nuget puedes hacerlo buscando dentro de los Nuget Packages la librería con el nombre de ![Tipi.Tools.UIExtensions.Mvc](https://www.nuget.org/packages/Tipi.Tools.UIExtensions.Mvc) o ejecutando el siguiente comando:
 
 Utilizando .NET CLI
 ```sh
-   dotnet add package Tipi.Tools.HttpRequestHandler --version 1.0.3
+   dotnet add package Tipi.Tools.UIExtensions.Mvc --version 1.0.1
 ```
 
 Utilizando Package Manager 
 ```sh
-   NuGet\Install-Package Tipi.Tools.HttpRequestHandler -Version 1.0.3
+   NuGet\Install-Package Tipi.Tools.UIExtensions.Mvc -Version 1.0.1
 ```
 # ¿Tienes alguna duda? 
-Si tienes alguna duda puedes comunicarte con nosotros, trataremos de solucionar tus preguntas lo más pronto posible, puedes escribirnos al siguiente correo electrónico con el tema Tipi Tool - HTTP Request Handler. O bien nos puedes contactar por cualquiera de nuestras redes sociales.
+Si tienes alguna duda puedes comunicarte con nosotros, trataremos de solucionar tus preguntas lo más pronto posible, puedes escribirnos al siguiente correo electrónico con el tema Tipi Tool - UI Extensions MVC. O bien nos puedes contactar por cualquiera de nuestras redes sociales.
 
-- Correo : <a href="mailto:root@codingtipi.com?subject=Tipi%20Tool%20-%20HTTP%20Request%20Handler" target="_blank">root@codingtipi.com</a>
+- Correo : <a href="mailto:root@codingtipi.com?subject=Tipi%20Tool%20-%20UI%20Extensions%20MVC" target="_blank">root@codingtipi.com</a>
 - Twitter : ![@tipi_code](https://twitter.com/tipi_code)
 
 # ¿Como contribuir?
 Si buscas contribuir en alguno de nuestros proyectos lo puedes hacer de una manera muy fácil, únicamente necesitaras seguir estos 4 pasos.
 
-1. Haz click en la opción de ¨Fork¨ , o bien puedes precionar ![Aquí](https://github.com/TipiCode/HTTP-Request-Handler/fork)
+1. Haz click en la opción de ¨Fork¨ , o bien puedes precionar ![Aquí](https://github.com/TipiCode/UI-Extensions-MVC//fork)
 2. Crea un nuevo branch en el area de branches de github.
 3. Nombre tu nuevo branch con un nombre que refleje tu contribución ¨Super mega nueva funcionalidad 3000¨
-4. Desarrolla tu cambio y al terminar crea un ¨pull request¨ para poder subir tu nueva funcionalidad, para eso preciona ![Aquí](https://github.com/TipiCode/HTTP-Request-Handler/pulls)
+4. Desarrolla tu cambio y al terminar crea un ¨pull request¨ para poder subir tu nueva funcionalidad, para eso preciona ![Aquí](https://github.com/TipiCode/UI-Extensions-MVC//pulls)
 
 Si no eres un desarrollador ¡No te preocupes! Aun puedes contribuir de diferentes maneras, puedes apoyarnos a hacer llegar estas librerías a muchas más personas no únicamente en el área de desarrollo, acá te dejamos las demás áreas donde puedes contribuir con este proyecto.
 
