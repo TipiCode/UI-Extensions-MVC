@@ -52,7 +52,7 @@ Aca de dejamos algunos temas que te pueden interesar
 - ![Una introducción a NuGet](https://learn.microsoft.com/es-es/nuget/what-is-nuget)
 
 ### Instalación por medio de Github
-Para instalar el proyecto por medio de Github primero debes de clonar el repositorio, puedes clonarlo ![descargando el archivo .Zip](https://github.com/TipiCode/HTTP-Request-Handler/archive/refs/heads/master.zip) que genera Github o con el siguiente comando.
+Para instalar el proyecto por medio de Github primero debes de clonar el repositorio, puedes clonarlo ![descargando el archivo .Zip](https://github.com/TipiCode/UI-Extensions-MVC/archive/refs/heads/master.zip) que genera Github o con el siguiente comando.
 ```sh
    git clone https://github.com/TipiCode/UI-Extensions-MVC.git
 ```
@@ -78,10 +78,10 @@ Si tienes alguna duda puedes comunicarte con nosotros, trataremos de solucionar 
 # ¿Como contribuir?
 Si buscas contribuir en alguno de nuestros proyectos lo puedes hacer de una manera muy fácil, únicamente necesitaras seguir estos 4 pasos.
 
-1. Haz click en la opción de ¨Fork¨ , o bien puedes precionar ![Aquí](https://github.com/TipiCode/UI-Extensions-MVC//fork)
+1. Haz click en la opción de ¨Fork¨ , o bien puedes precionar ![Aquí](https://github.com/TipiCode/UI-Extensions-MVC/fork)
 2. Crea un nuevo branch en el area de branches de github.
 3. Nombre tu nuevo branch con un nombre que refleje tu contribución ¨Super mega nueva funcionalidad 3000¨
-4. Desarrolla tu cambio y al terminar crea un ¨pull request¨ para poder subir tu nueva funcionalidad, para eso preciona ![Aquí](https://github.com/TipiCode/UI-Extensions-MVC//pulls)
+4. Desarrolla tu cambio y al terminar crea un ¨pull request¨ para poder subir tu nueva funcionalidad, para eso preciona ![Aquí](https://github.com/TipiCode/UI-Extensions-MVC/pulls)
 
 Si no eres un desarrollador ¡No te preocupes! Aun puedes contribuir de diferentes maneras, puedes apoyarnos a hacer llegar estas librerías a muchas más personas no únicamente en el área de desarrollo, acá te dejamos las demás áreas donde puedes contribuir con este proyecto.
 
